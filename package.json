@@ -32,18 +32,19 @@
   },
   "homepage": "https://github.com/carlnordenfelt/lulo-plugin-cognito-user-pool-attributes",
   "dependencies": {
-    "lodash": "4.17.3"
+    "lodash": "^4.17.11"
   },
   "devDependencies": {
     "aws-sdk": "*",
     "chai": "3.5.0",
-    "coveralls": "2.11.9",
+    "coveralls": "^3.0.3",
     "eslint": "3.0.1",
     "eslint-config-defaults": "9.0.0",
     "eslint-plugin-filenames": "1.0.0",
     "eslint-plugin-import": "1.10.2",
-    "istanbul": "0.4.4",
-    "mocha": "2.5.3",
+    "install": "^0.12.2",
+    "istanbul": "^0.4.5",
+    "mocha": "^6.1.4",
     "mockery": "1.7.0",
     "should": "9.0.2",
     "sinon": "1.17.4"
